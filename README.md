@@ -1,5 +1,5 @@
 # Java Programs
-This repository contains a collection of Java programs.
+This repository contains a collection of Java programs, each solving a different task. 
 
 ## Programs
 
@@ -16,7 +16,7 @@ This repository contains a collection of Java programs.
    * A program that counts the number of vowels and consonants in a given word. The program takes a string input and returns the count of vowels and consonants.
    
 #### 5. Encrypted Word 
-   * A program that encrypts a word using a simple substitution cipher, where 'A' is replaced with 'E'. The program takes a string input and returns the encrypted string.
+   * A program that encrypts a word using a simple substitution cipher, where 'A' is replaced with 'F'. The program takes a string input and returns the encrypted string.
    
 #### 6. User Registration 
    * A program that allows users to register by providing their full name, email, password, address, and mobile number. The information is then saved to a JSON file.
