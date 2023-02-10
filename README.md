@@ -10,17 +10,18 @@ This repository contains a collection of Java programs.
    * A program that counts the number of notes from a given array of denominations.
    
 #### 3. Sum of Digits 
-   * A Java program that calculates the sum of digits in a given number.
+   * A Java program that calculates the sum of digits in a given number. The program takes an input integer and returns the sum of its digits.
 
 #### 4. Vowel and Consonant Counter
-   * A program that counts the number of vowels and consonants in a given word.
+   * A program that counts the number of vowels and consonants in a given word. The program takes a string input and returns the count of vowels and consonants.
    
 #### 5. Encrypted Word 
-   * A program that encrypts a word using a simple substitution cipher, where A=F.
+   * A program that encrypts a word using a simple substitution cipher, where 'A' is replaced with 'E'. The program takes a string input and returns the encrypted string.
    
 #### 6. User Registration 
    * A program that allows users to register by providing their full name, email, password, address, and mobile number. The information is then saved to a JSON file.
    
-## Prerequisites
-You need to have Java installed on your machine to run this program. You can download Java from the following link:
-(https://www.java.com/en/download/)
+## Installation
+To use these programs, you need to have the following installed on your system:
+   * Java Development Kit (JDK)
+   * A Java IDE, such as Eclipse or IntelliJ IDEA
