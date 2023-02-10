@@ -21,3 +21,6 @@ This repository contains a collection of Java programs.
 #### 6. User Registration 
    * A program that allows users to register by providing their full name, email, password, address, and mobile number. The information is then saved to a JSON file.
    
+## Prerequisites
+You need to have Java installed on your machine to run this program. You can download Java from the following link:
+(https://www.java.com/en/download/)
