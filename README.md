@@ -22,6 +22,9 @@ This repository contains a collection of Java programs, each solving a different
    * A program that allows users to register by providing their full name, email, password, address, and mobile number. The information is then saved to a JSON file.
    
 ## Installation
-To use these programs, you need to have the following installed on your system:
-   * Java Development Kit (JDK)
-   * A Java IDE, such as Eclipse or IntelliJ IDEA
+Before you begin, make sure you have the following installed:
+- Java Development Kit (JDK)
+- An IDE such as IntelliJ IDEA, Eclipse, or NetBeans
+
+## Usage
+To run these programs, simply clone this repository and open the desired program in your Java IDE. Then, run the program as a Java Application.
