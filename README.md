@@ -17,6 +17,7 @@ This repository contains a collection of Java programs.
    
 #### 5. Encrypted Word 
    * A program that encrypts a word using a simple substitution cipher, where A=F.
+   
 #### 6. User Registration 
    * A program that allows users to register by providing their full name, email, password, address, and mobile number. The information is then saved to a JSON file.
    
